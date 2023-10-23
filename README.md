@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jat55
+- 👀 I’m interested in vector databases
+- 🌱 I’m currently learning Python programming 
+- 💞️ I’m looking to collaborate on the exchange of AI resources.
+- 📫 How to reach me  @fat55
